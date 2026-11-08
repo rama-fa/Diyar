@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <title>DIYAR | دِيار</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="http://localhost/DIYAR/assets/css/style.css?v=2">
+    <link rel="stylesheet" href="http://localhost/DIYAR/assets/css/home.css?v=3">
+</head>
+<body>
+    <!-- Navigation Bar -->
+<header class="site-header" dir="rtl">
+    <nav class="navbar">
+        <a href="/DIYAR/index.php" class="nav-logo">دِيار 🌴</a>
+
+        <div class="nav-links">
+            <a href="/DIYAR/index.php">الرئيسية</a>
+            <a href="#categories">التصنيفات</a>
+           <a href="/DIYAR/index.php#featured">الوجهات</a> 
+        </div>
+
+        <a href="#" class="nav-login">تسجيل الدخول</a>
+    </nav>
+</header>
+   
+<header class="navbar">
+    <a href="index.php" class="brand">
+        <span class="brand-palm">✳</span>
+        <span class="brand-name">دِيار</span>
+        <span class="brand-en">DIYAR</span>
+    </a>
+
+    <a href="#" class="login-btn">
+        <span>دخول</span>
+        <span>♙</span>
+    </a>
+</header>
+</header>
+<section class="hero">
+    <div class="hero-content">
+        <span class="hero-tag">أهلًا بك في طيبة الطيبة</span>
+<h1>للمدينة حكايات...<br>اكتشف حكايتك فيها</h1>
+
+  
+      <a href="/DIYAR/index.php#categories" class="hero-btn">ابدأ رحلتك</a>
+  
+        </a>
+    </div>
+</section>
+  <section class="categories" id="categories">
+    <div class="categories-heading">
+        <h2>تصنيفات الرحلة</h2>
+        <p>اختر ما يلامس روحك</p>
+    </div>
+
+    <div class="categories-grid">
+
+        <a href="#" class="category-card">
+            <img src="/DIYAR/assets/landmark.jpeg" alt="المعالم التاريخية والدينية">
+            <h3>المعالم التاريخية والدينية</h3>
+        </a>
+
+        <a href="#" class="category-card">
+            <img src="/DIYAR/assets/f.jpeg" alt="الطبيعة والمزارع">
+            <h3>الطبيعة والمزارع</h3>
+        </a>
+<a href="#" class="category-card">
+    <img src="/DIYAR/assets/museum.jpeg" alt="المتاحف والثقافات">
+    <h3>المتاحف والثقافات</h3>
+</a>
+
+<a href="#" class="category-card">
+    <img src="/DIYAR/assets/cafe.jpeg" alt="المقاهي والمطاعم">
+    <h3>المقاهي والمطاعم</h3>
+</a>
+
+    </div>
+</section>
+<section class="featured" id="featured">
+    <div class="featured-heading">
+        <h2>وجهات تستحق الاكتشاف</h2>
+        <p>أماكن مميزة تنتظرك في المدينة المنورة</p>
+    </div>
+
+    <div class="featured-grid">
+        <!-- الوجهة الأولى: المسجد النبوي الشريف -->
+<div class="featured-card">
+    <img src="/DIYAR/assets/nabawi.jpeg"
+         alt="المسجد النبوي الشريف"
+         class="featured-image">
+
+    <div class="featured-card-content">
+        <span class="featured-tag">معالم دينية</span>
+        <h3>المسجد النبوي الشريف</h3>
+        <p>من أعظم المعالم الإسلامية في المدينة المنورة، ويتميز بقبته الخضراء وساحاته الواسعة ومكانته الدينية العظيمة.</p>
+        <a href="#" class="featured-btn">اكتشف المزيد</a>
+    </div>
+</div>
+
+    <!-- مسجد قباء -->
+    <div class="featured-card">
+        <img src="/DIYAR/assets/quba.jpeg" alt="مسجد قباء" class="featured-image">
+        <div class="featured-card-content">
+            <span class="featured-tag">معالم دينية</span>
+            <h3>مسجد قباء</h3>
+            <p>أول مسجد بُني في الإسلام، وأحد أبرز معالم المدينة المنورة.</p>
+            <a href="#" class="featured-btn">اكتشف المزيد</a>
+        </div>
+    </div>
+
+    <!-- جبل أحد -->
+    <div class="featured-card">
+        <img src="/DIYAR/assets/uhud.jpeg" alt="جبل أحد" class="featured-image">
+        <div class="featured-card-content">
+            <span class="featured-tag">معالم تاريخية</span>
+            <h3>جبل أحد</h3>
+            <p>من أشهر معالم المدينة المنورة، ويرتبط بأحداث غزوة أحد.</p>
+            <a href="#" class="featured-btn">اكتشف المزيد</a>
+        </div>
+    </div>
+
+    
+        </div>
+    </div>
+
+</div>
+<div class="featured-more">
+    <a href="#" class="featured-more-btn">
+        استكشف جميع الوجهات ←
+    </a>
+</div>
+</section>
+</div>
+</section>
+<!-- Footer -->
+<footer class="site-footer" dir="rtl">
+    <div class="footer-content">
+        <div class="footer-about">
+            <h2>دِيار 🌴</h2>
+            <p>
+                دليلك لاكتشاف جمال المدينة المنورة،
+                من معالمها التاريخية إلى أجمل وجهاتها.
+            </p>
+        </div>
+
+        <div class="footer-links">
+            <h3>روابط سريعة</h3>
+            <a href="/DIYAR/index.php">الرئيسية</a>
+            <a href="#">التصنيفات</a>
+            <a href="#">الوجهات</a>
+            <a href="#">من نحن</a>
+        </div>
+
+        <div class="footer-contact">
+            <h3>تواصل معنا</h3>
+            <p>المدينة المنورة، المملكة العربية السعودية</p>
+            <p>اكتشف المدينة بطريقتك الخاصة</p>
+        </div>
+    </div>
+
+    <div class="footer-bottom">
+        <p>© 2026 دِيار | جميع الحقوق محفوظة</p>
+    </div>
+</footer>
+</body>
+</html>
